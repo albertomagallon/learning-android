@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">Trabajo obligatorio</string>
+	<string name="tabLista">Lista de ofertas</string>
+	<string name="tabMapa">Mapa</string>
+	<string name="menu">Menu</string>
+	<string name="spinner_prompt">Filtrar ofertas</string>
+	<string name="tabLista_content">Esto es el contenido de la pestaña Lista</string>
+	<string name="tabMapa_content">Esto es el contenido de la pestaña Mapa</string>
+	<string name="lista_vacia">No hay ofertas disponibles.</string>
+	<string-array name="Categoria">
+		<item>Todo</item>
+        <item>Comida</item>
+        <item>Banco</item>
+        <item>Hospital</item>
+    </string-array>
+    	<string-array name="Barrio">
+    	<item>Todo</item>
+        <item>Actur</item>
+        <item>Torrero</item>
+        <item>Centro</item>
+    </string-array>
+	
+</resources>
